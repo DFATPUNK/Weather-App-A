@@ -4,7 +4,7 @@ Weather App using Google Maps et Dark Sky APIs
 How to use it:
 
 1. Open Terminal
-2. Run node app.js -a **type your address**
+2. Run node app.js -a <**type your address**>
 
 Output:
 
